@@ -1,0 +1,1 @@
+{"kind":"Deployment","apiVersion":"apps/v1","metadata":{"name":"app6","creationTimestamp":null},"spec":{"replicas":1,"selector":{"matchLabels":{"app":"app6"}},"template":{"metadata":{"creationTimestamp":null,"labels":{"app":"app6"}},"spec":{"containers":[{"name":"app6","image":"nginx","resources":{}}]}},"strategy":{}},"status":{}}

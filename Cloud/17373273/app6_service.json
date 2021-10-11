@@ -1,0 +1,1 @@
+{"kind":"Service","apiVersion":"v1","metadata":{"name":"app6","creationTimestamp":null},"spec":{"ports":[{"name":"80","port":80,"targetPort":80}],"selector":{"app":"app6"},"type":"NodePort"},"status":{"loadBalancer":{}}}
